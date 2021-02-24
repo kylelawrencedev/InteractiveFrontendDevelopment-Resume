@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Code-Institute-Solutions/InteractiveFrontendDevelopment-Resume)
+
 # Putting It All Together - Interactive Frontend Mini Project Solution Code
 
 This repo contains the solution code for the *Putting It All Together - Interactive Frontend Mini Project* lesson.
